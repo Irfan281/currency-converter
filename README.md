@@ -3,9 +3,9 @@ A Simple Android app to convert USD to several currency (IDR, MYR, SGD, JPY) usi
 
 
 # Screenshot
-<img src="/screeshot/1.jpeg" width="300"/>
-<img src="/screeshot/2.jpeg" width="300"/>
-<img src="/screeshot/3.jpeg" width="300"/>
+<img src="screeshot/1.jpeg" width="200"/>
+<img src="screeshot/2.jpeg" width="200"/>
+<img src="screeshot/3.jpeg" width="200"/>
 
 # How to run
 1. Clone this repository
